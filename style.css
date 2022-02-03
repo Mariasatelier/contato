@@ -57,6 +57,7 @@ header .carrinho-and-login .login-btn p{
 
 header nav{
   display: flex;
+  z-index: 999;
 }
 header nav ul{
   display: flex;
